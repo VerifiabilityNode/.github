@@ -1,6 +1,6 @@
 
 This is the repository for the [Verifibaility Node](https://verifiability.org). 
-We have a number of public repositories where we make available artefacts for our projects.
+Here, we have made available a number of public repositories where we publish artefacts for our projects.
 
 We also link to repository tools developed and used by members of the Node.
 
